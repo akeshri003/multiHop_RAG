@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+lang_graph_rag/
+.env
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore IDE configurations
+.vscode/
+.idea/
+
+# Ignore other temporary or sensitive files
+*.log
+*.sqlite3
