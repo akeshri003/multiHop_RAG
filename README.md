@@ -12,6 +12,6 @@ The final task submission notebook is named - **`Multi-Hop_RAG.ipynb`**
 As a part of the task, I have added sample repository files to the repository. To insert your your pdf file, add the path of input .pdf file to `file_path` variable in the notebook. 
 To ask, questions, add your question in the following form in the last cell of the notebook - 
 ```
-input = inputs = {"questions": ["What is the name of the state having Alluvial Soil and also have oil fields?"]}
+inputs = {"questions": ["What is the name of the state having Alluvial Soil and also have oil fields?"]}
 ```
  
