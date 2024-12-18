@@ -7,6 +7,8 @@ Below is a graphical diagram showing the workflow:
 
 ![Workflow Diagram](workflow.png)
 
+The final task submission notebook is named - **`Multi-Hop_RAG.ipynb`**
+
 As a part of the task, I have added sample repository files to the repository. To insert your your pdf file, add the path of input .pdf file to `file_path` variable in the notebook. 
 To ask, questions, add your question in the following form in the last cell of the notebook - 
 ```
